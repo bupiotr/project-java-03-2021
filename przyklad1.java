@@ -9,5 +9,6 @@ public class Sample_String{
         //Method 2 : Using "+" operator
         String str4 = str1 + str2;
         System.out.println(str4);
+        System.out.println(str1);  //dodano
     }
 }
